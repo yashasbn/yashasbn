@@ -56,7 +56,6 @@ NLP and ML powered web application for health diagnostics and personalized treat
 - 🏆 **NPTEL Domain Scholar (CSE)** — First & only at RNSIT, earned twice (2024 & 2025)
 - 🎤 **Speaker at Maersk x NASSCOM TechSeries2025** — on AI, GenAI & emerging tech
 - ⭐ **NPTEL STAR & Discipline Star** — Topper certifications in AI, ML, Deep Learning
-- 🏅 **Spot Award at Maersk** — For driving innovative engineering solutions
 - 🧭 **Rajyapuraskar Scout** — Highest state-level scouting honor
 - 🏃 **32 KM Marathon Finisher** — Chip time: 4 hours 24 minutes
 
