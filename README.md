@@ -39,6 +39,9 @@ I hold a **GATE DA 2026 AIR 1863** in Data Science & Artificial Intelligence, an
 
 ## 🚀 Projects
 
+### 🐘 [Postgres Connectivity Helper](https://github.com/yashasbn/postgres-helper)
+A lightweight, modern web utility built with **Node.js and Vue 3 (Vite)** to test PostgreSQL database connectivity dynamically. It features secure, stateless credential handling, rate-limiting, and deep schema-level metric visualization.
+
 ### 🦁 [Wild-Eye: Real-Time Animal Detection](https://github.com/yashasbn)
 Computer vision system using **YOLOv8 and OpenCV** for automated wildlife detection and monitoring. Built to support conservation efforts through scalable, real-time image analysis.
 
